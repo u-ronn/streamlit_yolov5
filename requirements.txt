@@ -1,0 +1,10 @@
+streamlit==1.12.0
+torch>=1.12.1
+torchvision>=0.13.1
+opencv-python-headless==4.5.4.60
+pyyaml==6.0
+tqdm==4.64.1
+matplotlib==3.5.1
+seaborn==0.12.2
+ipython==8.8.0
+psutil==5.9.4
