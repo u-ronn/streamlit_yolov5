@@ -14,7 +14,7 @@ else:
     except:
         pass
 # title
-st.set_page_config(page_title="AIcoordinator v1.0",layout="wide")
+st.set_page_config(page_title="VideoFile Object Detection",layout="wide")
 st.title(":movie_camera:""VideoFile Object Detection")
 
 # sidebar
